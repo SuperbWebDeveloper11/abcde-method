@@ -1,6 +1,6 @@
 ## `ABCDE Method In Action with React & django-rest-framework`
 
-ABCDE Method In Action allow users to execute daily tasks with priorities
+ABCDE Method In Action allow users to write and track daily tasks with priorities
 
 ![Screenshot](https://github.com/pedrasfloki/abcde-method/blob/main/client/abcde.png)
 
