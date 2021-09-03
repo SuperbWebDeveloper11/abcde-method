@@ -2,7 +2,7 @@
 
 ABCDE Method In Action allow users to execute daily tasks with priorities
 
-![Screenshot]()
+![Screenshot](https://github.com/pedrasfloki/abcde-method/blob/main/client/abcde.png)
 
 ### `Here how users will use the app`
 
