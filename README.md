@@ -6,9 +6,9 @@ ABCDE Method In Action allow users to execute daily tasks with priorities
 
 ### `Here how users will use the app`
 
-- when the page load, you will see previously created goals
-- fill the input fields (test, date and priority) to create a goal
-- click on delete button to delete goal
+- when the page load, you will see previously created tasks
+- fill the input fields (test, date and priority) to create a task
+- click on delete button to delete task
 - when you finish a task double click
 - unfinished tasks will be displayed with bold font
 
