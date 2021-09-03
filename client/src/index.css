@@ -1,0 +1,62 @@
+body {
+  /* background-color: #041652; */
+  background-color: #441bb4;
+  color: white;
+}
+
+/* change bootstrap input focus blue glow */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: rgba(0, 0, 0, 0.8);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.6);
+  outline: 0 none;
+}
+
+div.app {
+  width: 70%;
+}
+
+.finished-task {
+  /* border-left: 4px solid #4ebd04; */
+  border-radius: 3px;
+}
+
+.unfinished-task {
+  /* border-left: 4px solid rgb(202, 4, 14); */
+  /* color: rgb(190, 7, 7); */
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+div.header {
+  text-align: center;
+}
+
+div.tasks {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+div.add-task {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+div.footer {
+  text-align: center;
+  font-size: 0.8em;
+}
